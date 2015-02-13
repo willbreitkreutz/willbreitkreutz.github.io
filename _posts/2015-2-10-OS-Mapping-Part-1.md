@@ -1,11 +1,9 @@
 ---
 layout: post
-title: OS Mapping Part 1
+title: Open Source Web Mapping - Part 1
 ---
 
-# Open Source Web Mapping - Part 1!
-
-### What exactly is a "web-map"?
+## What exactly is a "web-map"?
 
 There are a ton of different ways of putting mapping data on the web.  These range from simple images to PDF's that the user has to download, to dynamic and complex web mapping applications.
 
