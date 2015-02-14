@@ -1,8 +1,4 @@
 ---
-published: true
----
-
----
 layout:post
 title:Open Source Web Mapping - Part 2
 ---
