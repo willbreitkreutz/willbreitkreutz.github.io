@@ -1,6 +1,6 @@
 ---
-layout:post
-title:Open Source Web Mapping - Part 2
+layout: post
+title: Open Source Web Mapping - Part 2
 ---
 
 ## Let's Make a Map!
